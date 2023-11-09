@@ -1,5 +1,0 @@
-# Fix syntax highlighting for devcontainer files
-* linguist-vendored
-*.tsx linguist-vendored=false
-
-.react linguist-detectable=true
